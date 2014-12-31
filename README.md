@@ -15,7 +15,9 @@ The IP is using Gomory-Chvatal Cut. It, however, may suffer from numerical probl
 
 
 Input_format.PDF: describe the format of the input
+
 ILP.m: to solve Integer Programming problems
+
 LP.m: to solve Liner Programming problems
 
 
