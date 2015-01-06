@@ -3,7 +3,7 @@ LP-IP-solver
 
 Linear Programming and Integer Programming Solver with Simplex in Octave/Matlab
 
-I had written and tested it in Octave. 
+I had written and tested it in Octave from scratch. 
 
 It's probably for the purpose of studying Simplex, LP and IP only. 
 
